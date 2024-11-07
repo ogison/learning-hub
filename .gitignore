@@ -1,2 +1,5 @@
 # real-sns-udemy
 real-sns-udemy/node_modules/
+
+# env
+*.env
